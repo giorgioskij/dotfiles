@@ -63,10 +63,12 @@ sed -i '' 's/ZSH_THEME="robbyrussell"/ZSH_THEME="powerlevel10k\/powerlevel10k"/g
 
 ### _Vim configuration_
 
+```
 mkdir -p ~/.vim/colors
 ln -fs ~/dev/dotfiles/vim/.vimrc
 ln -s ~/dev/dotfiles/vim/.nord.vim ~/.vim/colors/
 source ~/.vimrc
+```
 
 <br/>
 <br/>
