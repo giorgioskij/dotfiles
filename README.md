@@ -1,6 +1,7 @@
 # dotfiles
 Years of OCD carefully assembled in a juicy directory of invisible files
 
+--- 
 <br/>
 <br/>
 
@@ -9,7 +10,7 @@ Years of OCD carefully assembled in a juicy directory of invisible files
 <br/>
 
 ## _Basic tools_
----
+
 
 ### install command line developer tools
 ```
@@ -32,7 +33,7 @@ gh auth login
 <br/>
 
 ## _Clone dotfiles repo_
----
+
 
 ### create dev directory, and clone dotfiles
 ```
@@ -46,7 +47,7 @@ cd
 <br/>
 
 ## _Terminal configuration_
----
+
 
 
 ### install oh-my-zsh
@@ -61,13 +62,13 @@ sed -i '' 's/ZSH_THEME="robbyrussell"/ZSH_THEME="powerlevel10k\/powerlevel10k"/g
 ```
 ### choose and import a theme from .terminal/  
 
----
+
 <br/>
 <br/>
 
 ## _Vim configuration_
 
----
+
 
 TODO
 
@@ -75,7 +76,7 @@ TODO
 <br/>
 
 ## _Install basic apps_
----
+
 
 ```
 brew install visual-studio-code atom firefox spotify teamviewer karabiner-elements
@@ -85,7 +86,7 @@ brew install visual-studio-code atom firefox spotify teamviewer karabiner-elemen
 <br/>
 
 ## _Setup karabiner_
----
+
 Open the app karabiner-elements and follow the procedure to allow the required privileges
 
 ### link the configuration file
