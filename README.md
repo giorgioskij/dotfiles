@@ -2,12 +2,7 @@
 Years of OCD carefully assembled in a juicy directory of invisible files
 
 --- 
-<br/>
-<br/>
-
-## **Setting up your fresh OSX**
-
-<br/>
+## Setting up your fresh OSX
 
 ## _Basic tools_
 
