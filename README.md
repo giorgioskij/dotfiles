@@ -83,6 +83,15 @@ brew install visual-studio-code atom firefox spotify teamviewer karabiner-elemen
 <br/>
 <br/>
 
+### _Setup z_
+```
+brew install z
+echo ". /usr/local/etc/profile.d/z.sh" ~/.zshrc
+```
+
+<br/>
+<br/>
+
 ### _Setup karabiner_
 
 Open the app karabiner-elements and follow the procedure to allow the required privileges
