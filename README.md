@@ -55,7 +55,7 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 
 sed -i '' 's/ZSH_THEME="robbyrussell"/ZSH_THEME="powerlevel10k\/powerlevel10k"/g' .zshrc
 ```
-#### choose and import a theme from .terminal/  
+#### choose and import a theme from `terminal/`  
 
 
 <br/>
