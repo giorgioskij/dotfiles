@@ -1,5 +1,5 @@
 # dotfiles
-Years of OCD carefully assembled in a juicy directory of invisible files
+Years of OCD carefully assembled in a juicy directory of mostly invisible files
 
 --- 
 ## Setting up your fresh OSX
