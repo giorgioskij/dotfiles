@@ -55,7 +55,11 @@ git clone --depth=1 https://github.com/romkatv/powerlevel10k.git ${ZSH_CUSTOM:-$
 
 sed -i '' 's/ZSH_THEME="robbyrussell"/ZSH_THEME="powerlevel10k\/powerlevel10k"/g' .zshrc
 ```
-#### choose and import a theme from .terminal/  
+#### link .zprofile
+```
+ln -s ~/dev/dotfiles/shell/.zprofile 
+```
+#### lastly, choose and import a theme from `terminal/`  
 
 
 <br/>
@@ -78,6 +82,15 @@ source ~/.vimrc
 
 ```
 brew install visual-studio-code atom firefox spotify teamviewer karabiner-elements telegram
+```
+
+<br/>
+<br/>
+
+### _Setup z_
+```
+brew install z
+echo ". /usr/local/etc/profile.d/z.sh" ~/.zshrc
 ```
 
 <br/>
