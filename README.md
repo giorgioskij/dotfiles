@@ -77,7 +77,7 @@ source ~/.vimrc
 
 
 ```
-brew install visual-studio-code atom firefox spotify teamviewer karabiner-elements
+brew install visual-studio-code atom firefox spotify teamviewer karabiner-elements telegram
 ```
 
 <br/>

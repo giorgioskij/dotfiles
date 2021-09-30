@@ -1,0 +1,477 @@
+[ActivityManager]
+_k_friendly_name=Activity Manager
+switch-to-activity-0244f967-1ee0-4d85-9b11-0c592c548be6=none,none,Switch to activity "Music"
+switch-to-activity-3b740fe2-de75-494c-af50-2f12e886c752=none,none,Switch to activity "Secondary"
+switch-to-activity-422b1466-bd43-4836-afe2-9c642d5a43f5=none,none,Switch to activity "Default"
+switch-to-activity-e7f24818-ebd6-49dd-9393-783b0383d2ba=none,none,Switch to activity "_floating"
+
+[KDE Keyboard Layout Switcher]
+Switch keyboard layout to English (US)=Meta+\\\\,none,Switch keyboard layout to English (US)
+Switch keyboard layout to Inglese (USA)=none,none,Cambia la mappatura della tastiera a Inglese (USA)
+Switch keyboard layout to Italian=Meta+/,none,Switch keyboard layout to Italian
+Switch to Next Keyboard Layout=Ctrl+Alt+K,none,Switch to Next Keyboard Layout
+_k_friendly_name=Keyboard Layout Switcher
+
+[code_code.desktop]
+_k_friendly_name=Visual Studio Code
+_launch=,,Visual Studio Code
+new-empty-window=,,New Empty Window
+
+[kaccess]
+Toggle Screen Reader On and Off=,Meta+Alt+S,Toggle Screen Reader On and Off
+_k_friendly_name=Accessibility
+
+[kcm_touchpad]
+Disable Touchpad=Touchpad Off,Touchpad Off,Disable Touchpad
+Enable Touchpad=Touchpad On,Touchpad On,Enable Touchpad
+Toggle Touchpad=Touchpad Toggle,Touchpad Toggle,Toggle Touchpad
+_k_friendly_name=Touchpad
+
+[kded5]
+Show System Activity=Ctrl+Esc,Ctrl+Esc,Show System Activity
+_k_friendly_name=KDE Daemon
+display=Display\tMeta+P,Display\tMeta+P,Switch Display
+
+[khotkeys]
+_k_friendly_name=Custom Shortcuts Service
+{0474d9ad-055f-4eec-98fc-e8f4ae94dcb9}=Meta+F,none,Launch Dolphin
+{08ec1f9b-4c63-45ac-9600-ecc1f7dc1914}=,none,maximize with border
+{0f9077bf-e081-4296-8856-89f7c661f839}=Meta+Shift+Left,none,bordertile left
+{20c791d0-fd93-4ff3-a3f5-7d101031319d}=Meta+Shift+Up,none,bordertile up
+{34d54752-d8a7-42d8-9805-7acc42f4f64e}=Meta+Shift+Right,none,bordertile right
+{3692cd3e-0449-41de-9763-37b332804e12}=Alt+Shift+Up,none,select bod
+{67503056-a2f7-4f11-bf45-23351707f868}=none,none,Launch Konsole
+{6fe366c8-db97-4efb-b819-11791aa81e20}=Alt+Shift+Down,none,select eod
+{7670f269-2184-4117-ba8f-59c492067de6}=Alt+Left,none,home
+{8a04c0e6-c960-4d1e-8e7c-0ac2a987765c}=Alt+Shift+Right,none,select end
+{93b9e214-c244-4231-bbda-f1a6941fa5d0}=Alt+Up,none,beginning of document
+{9c82788e-7bd4-4e72-9a5b-c40c12df05bb}=PgDown,none,New Action
+{c2d01b01-aa16-4484-bf35-69636a37a20b}=Alt+Down,none,end of document
+{c535c51a-534f-4c06-8a59-869dc9d89ed6}=Alt+Right,none,end
+{ca41cc7f-8fb1-475d-bc20-a8115325d390}=Alt+Shift+Left,none,select home
+{eab8ba3e-7c0e-4dfa-841e-340f6d8b5b9c}=Meta+B,none,Launch Browser
+
+[kitty.desktop]
+_k_friendly_name=kitty
+_launch=Meta+T,,kitty
+
+[kmix]
+_k_friendly_name=Audio Volume
+decrease_microphone_volume=Microphone Volume Down,Microphone Volume Down,Decrease Microphone Volume
+decrease_volume=Volume Down\tShift+Ins,Volume Down,Decrease Volume
+increase_microphone_volume=Microphone Volume Up,Microphone Volume Up,Increase Microphone Volume
+increase_volume=Volume Up\tShift+PgUp,Volume Up,Increase Volume
+mic_mute=Microphone Mute,Microphone Mute\tMeta+Volume Mute,Mute Microphone
+mute=Volume Mute,Volume Mute,Mute
+
+[ksmserver]
+Halt Without Confirmation=Ctrl+Alt+Shift+PgDown,none,Halt Without Confirmation
+Lock Session=Meta+L\tCtrl+Alt+L\tScreensaver,Meta+L\tCtrl+Alt+L\tScreensaver,Lock Session
+Log Out=Ctrl+Alt+Del,Ctrl+Alt+Del,Log Out
+Log Out Without Confirmation=Ctrl+Alt+Shift+Del,none,Log Out Without Confirmation
+Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,none,Reboot Without Confirmation
+_k_friendly_name=Session Management
+
+[kwin]
+Activate Window Demanding Attention=Ctrl+Alt+A,Ctrl+Alt+A,Activate Window Demanding Attention
+ClearLastMouseMark=Meta+Shift+F12,Meta+Shift+F12,Clear Last Mouse Mark
+ClearMouseMarks=,Meta+Shift+F11,Clear All Mouse Marks
+Decrease Opacity=none,none,Decrease Opacity of Active Window by 5 %
+Expose=Ctrl+F9,Ctrl+F9,Toggle Present Windows (Current desktop)
+ExposeAll=none,Ctrl+F10\tLaunch (C),Toggle Present Windows (All desktops)
+ExposeClass=none,Ctrl+F7,Toggle Present Windows (Window class)
+FlipSwitchAll=none,none,Toggle Flip Switch (All desktops)
+FlipSwitchCurrent=none,none,Toggle Flip Switch (Current desktop)
+Grid-Tiling: Close Desktop=none,none,Grid-Tiling: Close Desktop
+Grid-Tiling: Decrease Max=,none,Grid-Tiling: Decrease Max
+Grid-Tiling: Decrease Step=,none,Grid-Tiling: Decrease Step
+Grid-Tiling: Increase Max=Meta++,none,Grid-Tiling: Increase Max
+Grid-Tiling: Increase Step=,none,Grid-Tiling: Increase Step
+Grid-Tiling: Move Next Desktop/Screen=Meta+End,none,Grid-Tiling: Move Next Desktop/Screen
+Grid-Tiling: Move Previous Desktop/Screen=Meta+Home,none,Grid-Tiling: Move Previous Desktop/Screen
+Grid-Tiling: Move/Swap Left=none,none,Grid-Tiling: Move/Swap Left
+Grid-Tiling: Move/Swap Right=none,none,Grid-Tiling: Move/Swap Right
+Grid-Tiling: Refresh=Meta+R,none,Grid-Tiling: Refresh
+Grid-Tiling: Swap Down=,none,Grid-Tiling: Swap Down
+Grid-Tiling: Swap Up=,none,Grid-Tiling: Swap Up
+Grid-Tiling: Tile/Float=none,none,Grid-Tiling: Tile/Float
+Grid-Tiling: Toggle Border=Meta+Shift+B,none,Grid-Tiling: Toggle Border
+Grid-Tiling: Toggle Gap=Meta+G,none,Grid-Tiling: Toggle Gap
+Grid-Tiling: Toggle Minimize Desktop=,none,Grid-Tiling: Toggle Minimize Desktop
+Grid-Tiling: Toggle Tile=Meta+Shift+T,none,Grid-Tiling: Toggle Tile
+Increase Opacity=none,none,Increase Opacity of Active Window by 5 %
+Invert Screen Colors=none,none,Invert Screen Colours
+Kill Window=Ctrl+Alt+Esc,Ctrl+Alt+Esc,Kill Window
+Krohnkite: Cycle Layout=Meta+Shift+Return,none,
+Krohnkite: Decrease=,none,
+Krohnkite: Down/Next=Meta+J,none,
+Krohnkite: Float=,none,
+Krohnkite: Float All=none,none,
+Krohnkite: Floating Layout=none,none,
+Krohnkite: Grow Height=Meta+Ctrl+J,none,
+Krohnkite: Grow Width=Meta+Ctrl+L,none,
+Krohnkite: Increase=Meta+I,none,
+Krohnkite: Left=Meta+H,none,
+Krohnkite: Monocle Layout=,none,
+Krohnkite: Move Down/Next=,none,
+Krohnkite: Move Left=,none,
+Krohnkite: Move Right=,none,
+Krohnkite: Move Up/Prev=,none,
+Krohnkite: Next Layout=,none,
+Krohnkite: Previous Layout=Meta+|,none,
+Krohnkite: Quarter Layout=none,none,
+Krohnkite: Right=,none,
+Krohnkite: Set master=Meta+Return,none,
+Krohnkite: Shrink Height=Meta+Ctrl+K,none,
+Krohnkite: Shrink Width=Meta+Ctrl+H,none,
+Krohnkite: Spread Layout=none,none,
+Krohnkite: Stair Layout=none,none,
+Krohnkite: Three Column Layout=none,none,
+Krohnkite: Tile Layout=,none,
+Krohnkite: Up/Prev=Meta+K,none,
+MoveMouseToCenter=Meta+F6,Meta+F6,Move Mouse to Centre
+MoveMouseToFocus=Meta+F5,Meta+F5,Move Mouse to Focus
+MoveWindowToCenter=Meta+C,none,Move Window to Center
+MoveZoomDown=none,none,Move Zoomed Area Downwards
+MoveZoomLeft=none,none,Move Zoomed Area to Left
+MoveZoomRight=none,none,Move Zoomed Area to Right
+MoveZoomUp=none,none,Move Zoomed Area Upwards
+Parachute=none,none,Parachute
+Quarter: + Gap Size=Meta+PgUp,none,Quarter: + Gap Size
+Quarter: + Window Size=Alt+X,none,Quarter: + Window Size
+Quarter: - Gap Size=Meta+PgDown,none,Quarter: - Gap Size
+Quarter: - Window Size=Alt+Z,none,Quarter: - Window Size
+Quarter: Float On/Off=none,none,Quarter: Float On/Off
+Quarter: Float/Tile Desktop=Meta+Esc,none,Quarter: Float/Tile Desktop
+Quarter: Move Down=Meta+Shift+Down,none,Quarter: Move Down
+Quarter: Move Left=,none,Quarter: Move Left
+Quarter: Move Right=,none,Quarter: Move Right
+Quarter: Move Up=,none,Quarter: Move Up
+Quarter: Move to Next Screen=,none,Quarter: Move to Next Screen
+Quarter: Move to Previous Screen=,none,Quarter: Move to Previous Screen
+Quarter: Reset Layout=,none,Quarter: Reset Layout
+Quarter: Toggle Gaps On/Off=,none,Quarter: Toggle Gaps On/Off
+Setup Window Shortcut=none,none,Setup Window Shortcut
+Show Desktop=Meta+D,Meta+D,Show Desktop
+ShowDesktopGrid=Meta+Up\tCtrl+F8,Ctrl+F8,Show Desktop Grid
+Suspend Compositing=Alt+Shift+F12,Alt+Shift+F12,Suspend Compositing
+Switch One Desktop Down=none,Meta+Ctrl+Down,Switch One Desktop Down
+Switch One Desktop Up=none,Meta+Ctrl+Up,Switch One Desktop Up
+Switch One Desktop to the Left=none,Meta+Ctrl+Left,Switch One Desktop to the Left
+Switch One Desktop to the Right=none,Meta+Ctrl+Right,Switch One Desktop to the Right
+Switch Window Down=Meta+Alt+Down,Meta+Alt+Down,Switch to Window Below
+Switch Window Left=Meta+Alt+Left,Meta+Alt+Left,Switch to Window to the Left
+Switch Window Right=Meta+Alt+Right,Meta+Alt+Right,Switch to Window to the Right
+Switch Window Up=Meta+Alt+Up,Meta+Alt+Up,Switch to Window Above
+Switch to Desktop 1=Meta+1,Ctrl+F1,Switch to Desktop 1
+Switch to Desktop 10=none,none,Switch to Desktop 10
+Switch to Desktop 11=none,none,Switch to Desktop 11
+Switch to Desktop 12=none,none,Switch to Desktop 12
+Switch to Desktop 13=none,none,Switch to Desktop 13
+Switch to Desktop 14=none,none,Switch to Desktop 14
+Switch to Desktop 15=none,none,Switch to Desktop 15
+Switch to Desktop 16=none,none,Switch to Desktop 16
+Switch to Desktop 17=none,none,Switch to Desktop 17
+Switch to Desktop 18=none,none,Switch to Desktop 18
+Switch to Desktop 19=none,none,Switch to Desktop 19
+Switch to Desktop 2=Meta+2,Ctrl+F2,Switch to Desktop 2
+Switch to Desktop 20=none,none,Switch to Desktop 20
+Switch to Desktop 3=Meta+3,Ctrl+F3,Switch to Desktop 3
+Switch to Desktop 4=Meta+4,Ctrl+F4,Switch to Desktop 4
+Switch to Desktop 5=none,none,Switch to Desktop 5
+Switch to Desktop 6=none,none,Switch to Desktop 6
+Switch to Desktop 7=none,none,Switch to Desktop 7
+Switch to Desktop 8=none,none,Switch to Desktop 8
+Switch to Desktop 9=none,none,Switch to Desktop 9
+Switch to Next Desktop=Meta+Right,none,Switch to Next Desktop
+Switch to Next Screen=none,none,Switch to Next Screen
+Switch to Previous Desktop=Meta+Left,none,Switch to Previous Desktop
+Switch to Previous Screen=none,none,Switch to Previous Screen
+Switch to Screen 0=none,none,Switch to Screen 0
+Switch to Screen 1=none,none,Switch to Screen 1
+Switch to Screen 2=none,none,Switch to Screen 2
+Switch to Screen 3=none,none,Switch to Screen 3
+Switch to Screen 4=none,none,Switch to Screen 4
+Switch to Screen 5=none,none,Switch to Screen 5
+Switch to Screen 6=none,none,Switch to Screen 6
+Switch to Screen 7=none,none,Switch to Screen 7
+TILING-I3: Set Normal Mode=none,none,TILING-I3: Set Normal Mode
+TILING-I3: Set Wrap Horizontal Mode=none,none,TILING-I3: Set Wrap Horizontal Mode
+TILING-I3: Set Wrap Vertical Mode=none,none,TILING-I3: Set Wrap Vertical Mode
+TILING: Cycle Rotations=Meta+Shift+R,none,TILING: Cycle Rotations
+TILING: Decrease Number Of Masters=Meta+_,none,TILING: Decrease Number Of Masters
+TILING: Dump Clients=Meta+Shift+Esc,none,TILING: Dump Clients
+TILING: Focus next tile=,none,TILING: Focus next tile
+TILING: Focus previous tile=none,none,TILING: Focus previous tile
+TILING: Increase Number Of Masters=,none,TILING: Increase Number Of Masters
+TILING: Move Window Down=Meta+Shift+J,none,TILING: Move Window Down
+TILING: Move Window Left=Meta+Shift+H,none,TILING: Move Window Left
+TILING: Move Window Right=Meta+Shift+L,none,TILING: Move Window Right
+TILING: Move Window To New Desktop=Meta+Shift+D,none,TILING: Move Window To New Desktop
+TILING: Move Window Up=Meta+Shift+K,none,TILING: Move Window Up
+TILING: Next Tiling Layout=Meta+Shift+PgDown,none,TILING: Next Tiling Layout
+TILING: Previous Tiling Layout=Meta+Shift+PgUp,none,TILING: Previous Tiling Layout
+TILING: Resize Active Window To The Bottom=Meta+Alt+J,none,TILING: Resize Active Window To The Bottom
+TILING: Resize Active Window To The Left=Meta+Alt+H,none,TILING: Resize Active Window To The Left
+TILING: Resize Active Window To The Right=Meta+Alt+L,none,TILING: Resize Active Window To The Right
+TILING: Resize Active Window To The Top=Meta+Alt+K,none,TILING: Resize Active Window To The Top
+TILING: Swap Window With Master=Meta+Shift+M,none,TILING: Swap Window With Master
+TILING: Swap with next tile=none,none,TILING: Swap with next tile
+TILING: Swap with previous tile=none,none,TILING: Swap with previous tile
+TILING: Tile now=none,none,TILING: Tile now
+TILING: Toggle Border for all=none,none,TILING: Toggle Border for all
+TILING: Toggle Floating=none,none,TILING: Toggle Floating
+TILING: Toggle Tiling=Meta+Shift+F11,none,TILING: Toggle Tiling
+Toggle Night Color=none,none,Toggle Night Colour
+Toggle Window Raise/Lower=none,none,Toggle Window Raise/Lower
+ToggleCurrentThumbnail=Meta+Ctrl+T,Meta+Ctrl+T,Toggle Thumbnail for Current Window
+ToggleMouseClick=Meta+*,Meta+*,Attiva/disattiva effetto del clic del mouse
+Walk Through Desktop List=none,none,Walk Through Desktop List
+Walk Through Desktop List (Reverse)=none,none,Walk Through Desktop List (Reverse)
+Walk Through Desktops=none,none,Walk Through Desktops
+Walk Through Desktops (Reverse)=none,none,Walk Through Desktops (Reverse)
+Walk Through Windows=Alt+Tab,Alt+Tab,Walk Through Windows
+Walk Through Windows (Reverse)=Alt+Shift+Backtab,Alt+Shift+Backtab,Walk Through Windows (Reverse)
+Walk Through Windows Alternative=none,none,Walk Through Windows Alternative
+Walk Through Windows Alternative (Reverse)=none,none,Walk Through Windows Alternative (Reverse)
+Walk Through Windows of Current Application=Alt+`,Alt+`,Walk Through Windows of Current Application
+Walk Through Windows of Current Application (Reverse)=Alt+~,Alt+~,Walk Through Windows of Current Application (Reverse)
+Walk Through Windows of Current Application Alternative=none,none,Walk Through Windows of Current Application Alternative
+Walk Through Windows of Current Application Alternative (Reverse)=none,none,Walk Through Windows of Current Application Alternative (Reverse)
+Window Above Other Windows=none,none,Keep Window Above Others
+Window Below Other Windows=none,none,Keep Window Below Others
+Window Close=Ctrl+Q,Alt+F4,Close Window
+Window Fullscreen=F11,none,Make Window Fullscreen
+Window Grow Horizontal=,none,Pack Grow Window Horizontally
+Window Grow Vertical=none,none,Pack Grow Window Vertically
+Window Lower=,none,Lower Window
+Window Maximize=Meta+W\tMeta+Ctrl+Up,Meta+PgUp,Maximise Window
+Window Maximize Horizontal=none,none,Maximise Window Horizontally
+Window Maximize Vertical=none,none,Maximise Window Vertically
+Window Minimize=Meta+Ctrl+Down,Meta+PgDown,Minimise Window
+Window Move=Alt+A,none,Move Window
+Window No Border=none,none,Hide Window Border
+Window On All Desktops=none,none,Keep Window on All Desktops
+Window One Desktop Down=none,Meta+Ctrl+Shift+Down,Window One Desktop Down
+Window One Desktop Up=none,Meta+Ctrl+Shift+Up,Window One Desktop Up
+Window One Desktop to the Left=none,Meta+Ctrl+Shift+Left,Window One Desktop to the Left
+Window One Desktop to the Right=none,Meta+Ctrl+Shift+Right,Window One Desktop to the Right
+Window Operations Menu=Alt+F3,Alt+F3,Window Operations Menu
+Window Pack Down=none,none,Pack Window Down
+Window Pack Left=none,none,Pack Window to the Left
+Window Pack Right=none,none,Pack Window to the Right
+Window Pack Up=none,none,Pack Window Up
+Window Quick Tile Bottom=none,Meta+Down,Quick Tile Window to the Bottom
+Window Quick Tile Bottom Left=none,none,Quick Tile Window to the Bottom Left
+Window Quick Tile Bottom Right=none,none,Quick Tile Window to the Bottom Right
+Window Quick Tile Left=Meta+Ctrl+Left,Meta+Left,Quick Tile Window to the Left
+Window Quick Tile Right=Meta+Ctrl+Right,Meta+Right,Quick Tile Window to the Right
+Window Quick Tile Top=none,Meta+Up,Quick Tile Window to the Top
+Window Quick Tile Top Left=none,none,Quick Tile Window to the Top Left
+Window Quick Tile Top Right=none,none,Quick Tile Window to the Top Right
+Window Raise=none,none,Raise Window
+Window Resize=Alt+S,none,Resize Window
+Window Shade=none,none,Shade Window
+Window Shrink Horizontal=none,none,Pack Shrink Window Horizontally
+Window Shrink Vertical=none,none,Pack Shrink Window Vertically
+Window to Desktop 1=none,none,Window to Desktop 1
+Window to Desktop 10=none,none,Window to Desktop 10
+Window to Desktop 11=none,none,Window to Desktop 11
+Window to Desktop 12=none,none,Window to Desktop 12
+Window to Desktop 13=none,none,Window to Desktop 13
+Window to Desktop 14=none,none,Window to Desktop 14
+Window to Desktop 15=none,none,Window to Desktop 15
+Window to Desktop 16=none,none,Window to Desktop 16
+Window to Desktop 17=none,none,Window to Desktop 17
+Window to Desktop 18=none,none,Window to Desktop 18
+Window to Desktop 19=none,none,Window to Desktop 19
+Window to Desktop 2=none,none,Window to Desktop 2
+Window to Desktop 20=none,none,Window to Desktop 20
+Window to Desktop 3=none,none,Window to Desktop 3
+Window to Desktop 4=none,none,Window to Desktop 4
+Window to Desktop 5=none,none,Window to Desktop 5
+Window to Desktop 6=none,none,Window to Desktop 6
+Window to Desktop 7=none,none,Window to Desktop 7
+Window to Desktop 8=none,none,Window to Desktop 8
+Window to Desktop 9=none,none,Window to Desktop 9
+Window to Next Desktop=none,none,Window to Next Desktop
+Window to Next Screen=none,Meta+Shift+Right,Window to Next Screen
+Window to Previous Desktop=none,none,Window to Previous Desktop
+Window to Previous Screen=none,Meta+Shift+Left,Window to Previous Screen
+Window to Screen 0=none,none,Window to Screen 0
+Window to Screen 1=none,none,Window to Screen 1
+Window to Screen 2=none,none,Window to Screen 2
+Window to Screen 3=none,none,Window to Screen 3
+Window to Screen 4=none,none,Window to Screen 4
+Window to Screen 5=none,none,Window to Screen 5
+Window to Screen 6=none,none,Window to Screen 6
+Window to Screen 7=none,none,Window to Screen 7
+WindowGeometry=Ctrl+Shift+F11,Ctrl+Shift+F11,Toggle window geometry display (effect only)
+_k_friendly_name=KWin
+addDesktop=none,none,Virtual Desktop Bar - Add Desktop
+moveCurrentDesktopToLeft=none,none,Virtual Desktop Bar - Move Current Desktop to Left
+moveCurrentDesktopToRight=none,none,Virtual Desktop Bar - Move Current Desktop to Right
+removeCurrentDesktop=none,none,Virtual Desktop Bar - Remove Current Desktop
+removeLastDesktop=none,none,Virtual Desktop Bar - Remove Last Desktop
+renameCurrentDesktop=none,none,Virtual Desktop Bar - Rename Current Desktop
+switchToRecentDesktop=none,none,Virtual Desktop Bar - Switch to Recent Desktop
+view_actual_size=,Meta+0,Actual Size
+view_zoom_in=none,Meta+=,Zoom In
+view_zoom_out=Meta+-,Meta+-,Zoom Out
+
+[lattedock]
+_k_friendly_name=Latte Dock
+activate entry 1=,Meta+1,Activate Entry 1
+activate entry 10=,Meta+0,Activate Entry 10
+activate entry 11=none,Meta+Z,Activate Entry 11
+activate entry 12=none,Meta+X,Activate Entry 12
+activate entry 13=none,Meta+C,Activate Entry 13
+activate entry 14=none,Meta+V,Activate Entry 14
+activate entry 15=,Meta+B,Activate Entry 15
+activate entry 16=Meta+N,Meta+N,Activate Entry 16
+activate entry 17=Meta+M,Meta+M,Activate Entry 17
+activate entry 18=Meta+\\,,Meta+\\,,Activate Entry 18
+activate entry 19=,Meta+.,Activate Entry 19
+activate entry 2=,Meta+2,Activate Entry 2
+activate entry 3=,Meta+3,Activate Entry 3
+activate entry 4=,Meta+4,Activate Entry 4
+activate entry 5=,Meta+5,Activate Entry 5
+activate entry 6=,Meta+6,Activate Entry 6
+activate entry 7=,Meta+7,Activate Entry 7
+activate entry 8=,Meta+8,Activate Entry 8
+activate entry 9=,Meta+9,Activate Entry 9
+clear-history=none,none,Clear Clipboard History
+clipboard_action=,Ctrl+Alt+X,Enable Clipboard Actions
+cycleNextAction=none,none,Next History Item
+cyclePrevAction=none,none,Previous History Item
+edit_clipboard=none,none,Edit Contents...
+new instance for entry 1=Meta+Ctrl+1,Meta+Ctrl+1,New Instance for Entry 1
+new instance for entry 10=Meta+Ctrl+0,Meta+Ctrl+0,New Instance for Entry 10
+new instance for entry 11=Meta+Ctrl+Z,Meta+Ctrl+Z,New Instance for Entry 11
+new instance for entry 12=Meta+Ctrl+X,Meta+Ctrl+X,New Instance for Entry 12
+new instance for entry 13=Meta+Ctrl+C,Meta+Ctrl+C,New Instance for Entry 13
+new instance for entry 14=Meta+Ctrl+V,Meta+Ctrl+V,New Instance for Entry 14
+new instance for entry 15=Meta+Ctrl+B,Meta+Ctrl+B,New Instance for Entry 15
+new instance for entry 16=Meta+Ctrl+N,Meta+Ctrl+N,New Instance for Entry 16
+new instance for entry 17=Meta+Ctrl+M,Meta+Ctrl+M,New Instance for Entry 17
+new instance for entry 18=Meta+Ctrl+\\,,Meta+Ctrl+\\,,New Instance for Entry 18
+new instance for entry 19=Meta+Ctrl+.,Meta+Ctrl+.,New Instance for Entry 19
+new instance for entry 2=Meta+Ctrl+2,Meta+Ctrl+2,New Instance for Entry 2
+new instance for entry 3=Meta+Ctrl+3,Meta+Ctrl+3,New Instance for Entry 3
+new instance for entry 4=Meta+Ctrl+4,Meta+Ctrl+4,New Instance for Entry 4
+new instance for entry 5=Meta+Ctrl+5,Meta+Ctrl+5,New Instance for Entry 5
+new instance for entry 6=Meta+Ctrl+6,Meta+Ctrl+6,New Instance for Entry 6
+new instance for entry 7=Meta+Ctrl+7,Meta+Ctrl+7,New Instance for Entry 7
+new instance for entry 8=Meta+Ctrl+8,Meta+Ctrl+8,New Instance for Entry 8
+new instance for entry 9=Meta+Ctrl+9,Meta+Ctrl+9,New Instance for Entry 9
+repeat_action=,Ctrl+Alt+R,Manually Invoke Action on Current Clipboard
+show latte global settings=,Meta+W,Show Latte Global Settings
+show latte view=Meta+`,Meta+`,Show Latte Dock/Panel
+show view settings=,Meta+A,Cycle Through Dock/Panel Settings Windows
+show-barcode=none,none,Show Barcode...
+show-on-mouse-pos=none,none,Open Klipper at Mouse Position
+
+[mediacontrol]
+_k_friendly_name=Media Controller
+mediavolumedown=none,none,Media volume down
+mediavolumeup=none,none,Media volume up
+nextmedia=Media Next,Media Next,Media playback next
+pausemedia=Media Pause,Media Pause,Pause media playback
+playmedia=none,none,Play media playback
+playpausemedia=\tMedia Play,Media Play,Play/Pause media playback
+previousmedia=Media Previous,Media Previous,Media playback previous
+stopmedia=Media Stop,Media Stop,Stop media playback
+
+[org.kde.dolphin.desktop]
+_k_friendly_name=Dolphin
+_launch=Meta+E,Meta+E,Dolphin
+
+[org.kde.krunner.desktop]
+RunClipboard=Alt+Shift+F2,Alt+Shift+F2,Run command on clipboard contents
+_k_friendly_name=KRunner
+_launch=Alt+Space\tAlt+F2\tSearch,none,KRunner
+
+[org.kde.plasma.emojier.desktop]
+_k_friendly_name=Emoji Selector
+_launch=Meta+.,Meta+.,Emoji Selector
+
+[org.kde.spectacle.desktop]
+ActiveWindowScreenShot=Meta+Print,Meta+Print,Capture Active Window
+CurrentMonitorScreenShot=,none,Capture Current Monitor
+FullScreenScreenShot=Meta+Alt+S,Shift+Print,Capture Entire Desktop
+RectangularRegionScreenShot=Meta+Alt+Shift+S,Meta+Shift+Print,Capture Rectangular Region
+_k_friendly_name=Spectacle
+_launch=Print,Print,Launch Spectacle
+
+[org_kde_powerdevil]
+Decrease Keyboard Brightness=Keyboard Brightness Down,Keyboard Brightness Down,Decrease Keyboard Brightness
+Decrease Screen Brightness=Monitor Brightness Down,Monitor Brightness Down,Decrease Screen Brightness
+Hibernate=Hibernate,Hibernate,Hibernate
+Increase Keyboard Brightness=Keyboard Brightness Up,Keyboard Brightness Up,Increase Keyboard Brightness
+Increase Screen Brightness=Monitor Brightness Up,Monitor Brightness Up,Increase Screen Brightness
+PowerDown=Power Down,Power Down,Power Down
+PowerOff=Power Off,Power Off,Power Off
+Sleep=Sleep,Sleep,Suspend
+Toggle Keyboard Backlight=Keyboard Light On/Off,Keyboard Light On/Off,Toggle Keyboard Backlight
+Turn Off Screen=none,none,Turn Off Screen
+_k_friendly_name=Power Management
+
+[plasmashell]
+_k_friendly_name=Plasma
+activate task manager entry 1=none,Meta+1,Activate Task Manager Entry 1
+activate task manager entry 10=Meta+0,Meta+0,Activate Task Manager Entry 10
+activate task manager entry 2=none,Meta+2,Activate Task Manager Entry 2
+activate task manager entry 3=none,Meta+3,Activate Task Manager Entry 3
+activate task manager entry 4=none,Meta+4,Activate Task Manager Entry 4
+activate task manager entry 5=Meta+5,Meta+5,Activate Task Manager Entry 5
+activate task manager entry 6=Meta+6,Meta+6,Activate Task Manager Entry 6
+activate task manager entry 7=Meta+7,Meta+7,Activate Task Manager Entry 7
+activate task manager entry 8=Meta+8,Meta+8,Activate Task Manager Entry 8
+activate task manager entry 9=Meta+9,Meta+9,Activate Task Manager Entry 9
+activate widget 100=none,none,Activate Pager Widget
+activate widget 108=none,none,Activate Pager Widget
+activate widget 118=Alt+F1,none,Activate Application Launcher Widget
+activate widget 138=none,none,Activate Icons-only Task Manager Widget
+activate widget 27=none,none,Activate Application Menu Widget
+activate widget 35=none,none,Activate Application Launcher Widget
+activate widget 39=none,none,Activate Task Manager Widget
+activate widget 92=,none,Activate Minimal Menu Widget
+activate widget 96=Meta+A,none,Activate Application Launcher Widget
+activate widget 98=none,none,Activate Pager Widget
+clear-history=none,none,Clear Clipboard History
+clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,Enable Clipboard Actions
+cycleNextAction=none,none,Next History Item
+cyclePrevAction=none,none,Previous History Item
+edit_clipboard=none,none,Edit Contents...
+manage activities=none,Meta+Q,Show Activity Switcher
+next activity=Meta+Tab,Meta+Tab,Walk through activities
+previous activity=Meta+Shift+Tab,Meta+Shift+Tab,Walk through activities (Reverse)
+repeat_action=Ctrl+Alt+R,Ctrl+Alt+R,Manually Invoke Action on Current Clipboard
+show dashboard=Ctrl+F12,Ctrl+F12,Show Desktop
+show-barcode=none,none,Show Barcode...
+show-on-mouse-pos=none,Meta+V,Open Klipper at Mouse Position
+stop current activity=none,Meta+S,Stop Current Activity
+switch to next activity=none,none,Switch to Next Activity
+switch to previous activity=none,none,Switch to Previous Activity
+toggle do not disturb=none,none,Toggle do not disturb
+
+[spotify.desktop]
+_k_friendly_name=Spotify
+_launch=Meta+S,,Spotify
+
+[spotify_spotify.desktop]
+_k_friendly_name=Spotify
+_launch=,,Spotify
+
+[systemsettings.desktop]
+_k_friendly_name=System Settings
+_launch=Tools,Tools,System Settings
+
+[visual-studio-code.desktop]
+_k_friendly_name=Visual Studio Code
+_launch=Meta+V,,Visual Studio Code
+new-empty-window=,,New Empty Window
+
+[yakuake]
+_k_friendly_name=Yakuake
+toggle-window-state=PgUp,F12,Open/Retract Yakuake
